@@ -1,0 +1,103 @@
+OBJECTID,NPU,STATISTICA,POP2010,NEIGHBORHO,pop,white,black,asian,other,hispanic
+1,NPU C,C04,2672,"Arden/Habersham, Argonne Forest, Peachtree Battle Alliance, Wyngate",2672,96.3,0.9,1,0.5,1.3
+2,NPU B,B10,3736,"Peachtree Heights East, Peachtree Hills",3736,86.6,5.9,2,1.8,3.7
+3,NPU B,B01,4874,Peachtree Heights West,4874,77,14.5,2.9,2,3.6
+4,NPU B,B02,3372,"Buckhead Forest, South Tuxedo Park",3372,77.5,9,3.5,2,8.1
+5,NPU A,A03,3423,"Chastain Park, Tuxedo Park",3423,93.8,0.7,2.6,1.1,1.8
+6,NPU B,B03,2092,East Chastain Park,2092,85,6.5,4,1.8,2.7
+7,NPU B,B09,3584,Garden Hills,3584,71.4,6.1,4.4,2.6,15.5
+8,NPU B,B11,4604,Lindbergh/Morosgo,4604,34.4,24.9,9.5,2.3,28.8
+9,NPU B,B07,2920,"Buckhead Village, Peachtree Park",2920,77.4,11.1,3.1,2.3,6.2
+10,NPU L,L01,2818,Vine City,2818,2.2,92.7,0.3,2.2,2.6
+11,NPU E,E02,7232,"Georgia Tech, Marietta Street Artery",7232,60.4,8.9,22.5,3.5,4.7
+12,NPU M,M01,14560,"Castleberry Hill, Downtown",14560,32.2,53.4,6.8,2.8,4.8
+13,NPU E,E07,16218,Midtown,16218,68.2,15.9,7.5,3.1,5.4
+14,NPU E,E06,4706,Home Park,4706,45.5,17.1,28.9,3.8,4.7
+15,NPU I,I01,2881,"Beecher Hills, Florida Heights, Westwood Terrace",2881,1.3,95.3,0.1,1.5,1.8
+16,NPU S,S02,4084,"Fort McPherson, Venetian Hills",4084,7.1,89.5,0.4,1.6,1.3
+17,NPU X,X04,4632,Sylvan Hills,4632,10,85.4,0.5,1.6,2.5
+18,NPU X,X01,2648,"Capitol View, Capitol View Manor",2648,12.8,82.6,0.4,1.8,2.4
+19,NPU S,S01,3672,"Bush Mountain, Oakland City",3672,1.7,95.8,0.2,1.1,1.1
+20,NPU T,T03,3138,Westview,3138,3.4,93.3,0.2,1.8,1.3
+21,NPU T,T04,4341,West End,4341,3.9,90.4,0.9,2.4,2.4
+22,NPU T,T01,2072,"Ashview Heights, Harris Chiles, Just Us",2072,1.6,95.5,0,1.6,1.3
+23,NPU T,T02,6729,"Atlanta University Center, The Villages at Castleberry Hill",6729,0.5,94.2,0.2,2.1,3.1
+24,NPU J,J01,2730,"Center Hill, Harvel Homes Community",2730,1.4,95.8,0.2,1.2,1.4
+25,NPU J,J03,3625,"Dixie Hills, Penelope Neighbors, West Lake",3625,1.1,96.6,0,1.1,1.2
+26,NPU C,C03,3516,"Brandon, Castlewood, Westminster/Milmar, Woodfield",3516,93.7,1.8,2.2,0.6,1.7
+27,NPU A,A02,4207,"Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek",4207,91,2.3,3.3,1.4,2.1
+28,NPU X,X03,2702,Hammond Park,2702,5.5,82.8,1.5,1.3,8.9
+29,NPU Z,Z03,5972,"Blair Villa/Poole Creek, Glenrose Heights, Orchard Knob, Rosedale Heights",5972,1,94.3,0.4,1.7,2.6
+30,NPU Z,Z05,2255,South River Gardens,2255,1.6,94.2,0.1,1.3,2.8
+31,NPU X,X02,2416,Perkerson,2416,8.7,76.9,0.7,1.2,12.5
+32,NPU Y,Y02,2151,"Amal Heights, Betmar LaVilla, High Point, Joyland",2151,1.9,90.7,0.7,1.7,5
+33,NPU L,L02,3330,English Avenue,3330,8.7,83.5,1.6,3.2,2.9
+34,NPU D,D03,3089,"Berkeley Park, Blandtown, Hills Park",3089,58.7,23.9,7.3,3.7,6.3
+35,NPU D,D02,2287,Underwood Hills,2287,72.3,13.7,5.5,2.4,6.2
+36,NPU C,C06,3757,"Channing Valley, Memorial Park, Springlake, Wildwood (NPU-C)",3757,86.7,5.3,4,1.4,2.6
+37,NPU A,A01,4061,"Margaret Mitchell, Paces, Pleasant Hill",4061,85.9,5.7,4.4,1.3,2.7
+38,NPU C,C01,2662,"Fernleaf, Hanover West, Ridgewood Heights, Wesley Battle, Westover Plantation",2662,74.1,9.7,1.6,1.2,13.3
+39,NPU C,C02,2910,Cross Creek,2910,55.1,21,7.2,2.6,14.1
+40,NPU Z,Z04,3837,"Browns Mill Park, Polar Rock, Swallow Circle/Baywood",3837,3.9,89.8,0.1,1.7,4.5
+41,NPU Y,Y03,2808,"South Atlanta, The Villages at Carver",2808,2.2,95,0.1,1.8,0.9
+42,NPU Y,Y04,2157,Lakewood Heights,2157,10.5,85.3,0.3,1.9,2.1
+43,NPU V,V02,4880,"Adair Park, Pittsburgh",4880,4.1,90.6,1.9,1.4,2
+44,NPU V,V04,3786,Mechanicsville,3786,2.1,94.9,0.3,1.1,1.7
+45,NPU V,V03,2658,Peoplestown,2658,8.5,84.1,0.8,2.6,4
+46,NPU V,V01,2874,"Capitol Gateway, Summerhill",2874,12,81,1.8,2.2,3
+47,NPU Z,Z01,3135,"Lakewood, Leila Valley, Norwood Manor, Rebel Valley Forest",3135,2.6,84.3,1,0.8,11.4
+48,NPU J,J02,5534,Grove Park,5534,1.9,95.4,0.1,1.3,1.3
+49,NPU G,G02,3067,"Almond Park, Carey Park",3067,1,96.3,0.1,1.3,1.3
+50,NPU D,D01,5314,"Bolton, Riverside, Whittier Mill Village",5314,43.1,27.1,2.4,2.2,25.2
+51,NPU G,G03,3628,"Carver Hills, Rockdale, Scotts Crossing, West Highlands",3628,3.9,91.6,0.6,1.5,2.3
+52,NPU K,K01,3836,"Hunter Hills, Mozley Park",3836,1.5,96.2,0.2,1,1
+53,NPU K,K02,2924,"Bankhead, Washington Park",2924,2.7,94.2,0.1,1.3,1.7
+54,NPU K,K03,2639,Knight Park/Howell Station,2639,24.6,69.1,1.1,1.6,3.6
+55,NPU Q,Q01,1898,"Midwest Cascade, Regency Trace",1898,1.5,96.3,0.9,0.9,0.4
+56,NPU P,P01,3826,"Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest",3826,1.2,94.6,0.5,2,1.7
+57,NPU P,P02,3670,Princeton Lakes,3670,3,90,1.4,1.9,3.7
+58,NPU P,P06,2428,"Ben Hill Forest, Ben Hill Pines, Brentwood, Deerwood, Mellwood, Rue Royal, Tampa Park",2428,1.9,95.4,0.1,1.4,1.2
+59,NPU R,R03,3628,Greenbriar,3628,0.6,97.4,0.1,0.9,1
+60,NPU X,X05,0,Airport,0,0,0,0,0,0
+61,NPU P,P05,2536,"Ashley Courts, Greenbriar Village, Niskey Cove, Niskey Lake, Sandlewood Estates",2536,0.6,96,0.5,1.6,1.3
+62,NPU P,P04,2719,"Ben Hill Terrace, Kings Forest, Old Fairburn Village",2719,1,95.2,0.5,1.6,1.7
+63,NPU H,H01,3298,"Bankhead Courts, Bankhead/Bolton, Carroll Heights, Fairburn Heights, Old Gordon",3298,1,80.4,0,1,17.6
+64,NPU I,I04,5681,Collier Heights,5681,0.7,96.5,0.1,1.6,1.2
+65,NPU G,G01,2083,"Atlanta Industrial Park, Bolton Hills, Brookview Heights, Chattahoochee, English Park, Lincoln Homes, Monroe Heights",2083,3.6,92.8,0.6,1.1,2
+66,NPU R,R01,6721,"Campbellton Road, Fort Valley, Pomona Park",6721,1.9,95.7,0,1.1,1.2
+67,NPU I,I03,4945,"Audobon Forest, Audobon Forest West, Chalet Woods, Harland Terrace, Peyton Forest, Westhaven",4945,1.1,94.7,0,1.6,2.7
+68,NPU S,S03,2307,Cascade Avenue/Road,2307,1.4,95.6,0.1,1.8,1.1
+69,NPU H,H04,4360,"Baker Hills, Bakers Ferry, Boulder Park, Fairburn Road/Wisteria Lane, Ridgecrest Forest, Wildwood (NPU-H), Wilson Mill Meadows, Wisteria Gardens",4360,0.3,97.7,0.3,0.8,0.9
+70,NPU P,P03,2056,"Ben Hill Acres, Briar Glen, Cascade Green, Heritage Valley, Meadowbrook Forest, Mt. Gilead Woods",2056,1.3,96.4,0.1,1.1,1.2
+71,NPU R,R02,6141,"Adams Park, Laurens Valley, Southwest",6141,1,95.8,0.3,1.2,1.7
+72,NPU H,H03,4095,"Fairburn Mays, Mays",4095,0.7,95.9,0.1,1.8,1.4
+73,NPU I,I02,2705,"Cascade Heights, East Ardley Road, Green Acres Valley, Green Forest Acres, Horseshoe Community, Magnum Manor, West Manor",2705,1.2,96.8,0.3,1.2,0.6
+74,NPU I,I05,4996,Ivan Hill,4996,0.5,86.2,0,1,12.2
+75,NPU H,H02,2296,"Adamsville, Oakcliff",2296,1,89.5,0.2,0.7,8.7
+76,NPU F,F03,8475,"Atkins Park, Virginia Highland",8475,84.1,6.1,2.6,2.2,4.9
+77,NPU F,F01,2834,Piedmont Heights,2834,65.9,20.3,4.4,3.1,6.3
+78,NPU F,F04,8307,Morningside/Lenox Park,8307,85.2,5.1,2.4,1.6,5.7
+79,NPU W,W04,5101,East Atlanta,5101,42.1,52.2,1.1,2.1,2.5
+80,NPU E,E04,4167,"Atlantic Station, Loring Heights",4167,42.3,32.6,17.6,3.3,4.3
+81,NPU E,E03,2771,"Ardmore, Brookwood",2771,68.7,17.5,6.3,2.5,5.1
+82,NPU C,C05,2605,"Collier Hills, Collier Hills North, Colonial Homes",2605,75.9,13.1,3,2.8,5.3
+83,NPU E,E01,3350,"Ansley Park, Sherwood Forest",3350,86.6,8,1.5,0.8,3.1
+84,NPU E,E05,3677,Brookwood Hills,3677,59.4,28.1,4.1,3.1,5.3
+85,NPU M,M02,12326,"Old Fourth Ward, Sweet Auburn",12326,32.2,57.2,2.7,3.1,4.8
+86,NPU N,N02,6196,"Inman Park, Poncey-Highland",6196,80.2,9.9,2.9,2.7,4.4
+87,NPU F,F02,3914,Lindridge/Martin Manor,3914,42.2,18.9,5.7,1.9,31.3
+88,NPU B,B08,8300,Pine Hills,8300,58.3,17.8,9.3,2.5,12.1
+89,NPU B,B04,8332,North Buckhead,8332,78.9,8.5,5.3,1.7,5.6
+90,NPU B,B06,3143,"Buckhead Heights, Lenox, Ridgedale Park",3143,72.8,10.9,6.2,2.4,7.7
+91,NPU B,B05,2335,Brookhaven,2335,94.4,1.9,0.9,0.6,2.2
+92,NPU O,O01,4046,"East Lake, The Villages at East Lake",4046,27.2,67.7,0.9,1.8,2.4
+93,NPU O,O03,4072,Edgewood,4072,31.9,61.1,1.7,2.4,2.9
+94,NPU N,N03,4742,"Candler Park, Druid Hills",4742,83.1,6.9,3.3,2.7,4
+95,NPU O,O02,5688,Kirkwood,5688,44.6,49.1,1.5,2.4,2.4
+96,NPU N,N04,2697,Lake Claire,2697,86.6,5.7,1.9,2.7,3.1
+97,NPU Y,Y01,3995,"Chosewood Park, Englewood Manor",3995,21.9,55,0.5,1.5,21.1
+98,NPU Z,Z02,2851,Thomasville Heights,2851,0.5,97.8,0.2,1.1,0.5
+99,NPU W,W02,3305,"Benteen Park, Boulevard Heights, Custer/McDonough/Guice, State Facility, Woodland Hills",3305,31.9,46.4,0.9,2.2,18.6
+100,NPU W,W01,6827,"Grant Park, Oakland",6827,62.4,27.9,2.2,2.5,5
+101,NPU W,W03,4053,Ormewood Park,4053,62.7,28.3,2.3,2.5,4.1
+102,NPU N,N01,3750,"Cabbagetown, Reynoldstown",3750,59.1,31,2.3,2.8,4.8
